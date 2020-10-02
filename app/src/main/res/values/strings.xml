@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies2</string>
+    <string name="popularity">По популярности</string>
+    <string name="top_rated">По рейтингу</string>
+    <string name="poster">Постер фильма</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+    <string name="remove_from_favourite">Удалено из избранного</string>
+    <string name="item_favourite">Избранное</string>
+    <string name="item_main">Главная</string>
+</resources>
